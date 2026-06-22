@@ -776,3 +776,220 @@ https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 ,✔️ Xtrema TV Cna Deportes 2
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 1
+#EXTVLCOPT:network-caching=1000
+http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 2
+#EXTVLCOPT:network-caching=1000
+http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 3
+#EXTVLCOPT:network-caching=1000
+http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 4
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 5
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",TOFFEE Sports VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sports_highlights.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",TOFFEE Movies VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/toffee_movie.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",TOFFEE Dramas VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/toffee_drama.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",CNN VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/cnn.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Somoy TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/somoy_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="News Channel",Jamuna TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/jamuna_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png" group-title="News Channel",ATN News
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/atn_news.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/atn_bangla.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Ananda TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/anandatv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Bijoy TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/n_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/global_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Channel S
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/channel_s.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Bangla TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/bangla_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Asian TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/asian_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/channel_i.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/movie_bangla.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/nexus_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/islamic_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="News Channel",Desh TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/desh_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="News Channel",Independent TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/independent_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Ekattor TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/ekattor_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Euro Sport HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/euro_sports_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_400 - q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Sports Channels",ICC Test Championship Highlights
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/icc_wtc_final.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY SPORTS TEN 1 HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY SPORTS TEN 2 HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY SPORTS TEN 5 HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_sports_5_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY TEN Cricket
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/ten_cricket.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/cartoon_network_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/cartoon_network_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Pogo
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/pogo_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovery_kids.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY YAY VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonyyay.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Zee Bangla VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_bangla.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_400 - q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Entertainment Channels",Zee Anmol
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_anmol.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_400 - q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Entertainment Channels",Zing
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zing_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Hum TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/hum_tv.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Hum Masala
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/hum_masala.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Hum Sitarey
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/hum_sitaray.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Sony Aat VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonyaath.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY ENTERTAINMENT TELEVISION HD VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY ENTERTAINMENT TELEVISION
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",B4U Music VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/b4u_music.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY SAB HD VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonysab_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Zee TV HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_tv_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY MAX HD VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",q_75 - f_webp/-C7MX5UBv9knK3AHdKOi/posters/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png" group-title="Movie Channels",Zee Bangla Cinema
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_300 - q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="Movie Channels",Zee Bollywood
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_400 - q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="Movie Channels",Zee Action
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_action.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY MAX VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sony_max.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY PIX HD VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonypix_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",w_400 - q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Movie Channels",Zee Cafe
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_cafe_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",B4U Movies VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/b4u_movies.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY MAX 2 VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonymax_2.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Zee Bangla Cinema VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Zee Cinema HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",TLC HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/tlc_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",TLC
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/tlc_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/animal_planet_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/animal_planet_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",SONY BBC EARTH HD VIP
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/sonybbc_earth_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Discovery HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovery_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Discovery
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovery_sd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Discovery Science
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovery_science.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovery_turbo.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",Investigation Discovery HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/discovary_investigation_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",&TV HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/and_tv_hd.m3u8
+#EXTINF:-1 group-title="FIFA (Slow Internet)",& Pictures HD
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
