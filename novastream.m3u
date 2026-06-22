@@ -776,7 +776,6 @@ https://wahyu1ptv.pages.dev/AstroBein3.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 ,✔️ Xtrema TV Cna Deportes 2
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
-
 #EXTINF:-1 group-title="FIFA (Slow Internet)",Toffee 1
 #EXTVLCOPT:network-caching=1000
 http://sm-monirul.top/tof/live/gervsivo/index.m3u8
